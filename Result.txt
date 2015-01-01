@@ -1,0 +1,193 @@
+Benjamin John
+David Niaz
+
+CISC 231
+
+
+Enter the number of tellers.
+3
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			200 seconds.
+Total Number of Customers Helped: 	4 customers.
+
+Average Customer Wait Time: 		25 seconds.
+Standard Deviation of Wait Times:       50.0 seconds.
+
+Teller 0 helped 2 customers.
+Teller 1 helped 1 customers.
+Teller 2 helped 1 customers.
+
+Teller 0 was idle 0.0% of the time, with a standard Deviation of 0.0 seconds.
+Teller 1 was idle 50.0% of the time, with a standard Deviation of 70.71067811865476 seconds.
+Teller 2 was idle 50.0% of the time, with a standard Deviation of 70.71067811865476 seconds.
+
+
+
+
+
+Test Input 2 Results:
+Enter the number of tellers.
+3
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			538 seconds.
+Total Number of Customers Helped: 	5 customers.
+
+Average Customer Wait Time: 		11 seconds.
+Standard Deviation of Wait Times:       22.271057451320086 seconds.
+
+Teller 0 helped 2 customers.
+Teller 1 helped 1 customers.
+Teller 2 helped 2 customers.
+
+Teller 0 was idle 2.0% of the time, with a standard Deviation of 5.196152422706632 seconds.
+Teller 1 was idle 58.0% of the time, with a standard Deviation of 214.25218785347326 seconds.
+Teller 2 was idle 62.0% of the time, with a standard Deviation of 190.8114252344445 seconds.
+
+
+
+
+
+Enter the number of tellers.
+3
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			1219 seconds.
+Total Number of Customers Helped: 	5 customers.
+
+Average Customer Wait Time: 		347 seconds.
+Standard Deviation of Wait Times:       477.04192687855016 seconds.
+
+Teller 0 helped 5 customers.
+Teller 1 helped 0 customers.
+Teller 2 helped 0 customers.
+
+Teller 0 was idle 0.0% of the time, with a standard Deviation of 0.0 seconds.
+Teller 1 was idle 100.0% of the time, with a standard Deviation of N/A seconds.
+Teller 2 was idle 100.0% of the time, with a standard Deviation of N/A seconds.
+
+
+
+
+
+Test Input 4 Results:
+Enter the number of tellers.
+3
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			145135 seconds.
+Total Number of Customers Helped: 	1120 customers.
+
+Average Customer Wait Time: 		1203 seconds.
+Standard Deviation of Wait Times:       1312.763497359673 seconds.
+
+Teller 0 helped 474 customers.
+Teller 1 helped 368 customers.
+Teller 2 helped 278 customers.
+
+Teller 0 was idle 9.0% of the time, with a standard Deviation of 83.99404740813482 seconds.
+Teller 1 was idle 23.0% of the time, with a standard Deviation of 277.62024421860883 seconds.
+Teller 2 was idle 40.0% of the time, with a standard Deviation of 911.7910944947861 seconds.
+
+
+
+
+Test Input 4 Results with 4 tellers:
+Enter the number of tellers.
+4
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			144552 seconds.
+Total Number of Customers Helped: 	1120 customers.
+
+Average Customer Wait Time: 		671 seconds.
+Standard Deviation of Wait Times:       883.7997510748688 seconds.
+
+Teller 0 helped 437 customers.
+Teller 1 helped 339 customers.
+Teller 2 helped 200 customers.
+Teller 3 helped 144 customers.
+
+Teller 0 was idle 10.0% of the time, with a standard Deviation of 76.60287200882223 seconds.
+Teller 1 was idle 34.0% of the time, with a standard Deviation of 364.1222322242903 seconds.
+Teller 2 was idle 58.0% of the time, with a standard Deviation of 1432.8576342400524 seconds.
+Teller 3 was idle 69.0% of the time, with a standard Deviation of 2438.8380430032657 seconds.
+
+
+
+
+
+Test Input 4 Results with 5 tellers:
+Enter the number of tellers.
+5
+Is there a drive-thru? Enter true or false.
+true
+
+RESULTS:
+
+Total Elapsed Time: 			144663 seconds.
+Total Number of Customers Helped: 	1120 customers.
+
+Average Customer Wait Time: 		458 seconds.
+Standard Deviation of Wait Times:       703.2325362211279 seconds.
+
+Teller 0 helped 421 customers.
+Teller 1 helped 297 customers.
+Teller 2 helped 162 customers.
+Teller 3 helped 131 customers.
+Teller 4 helped 109 customers.
+
+Teller 0 was idle 13.0% of the time, with a standard Deviation of 80.06247560499239 seconds.
+Teller 1 was idle 38.0% of the time, with a standard Deviation of 410.51796550212026 seconds.
+Teller 2 was idle 64.0% of the time, with a standard Deviation of 1691.015671127858 seconds.
+Teller 3 was idle 77.0% of the time, with a standard Deviation of 2772.2694674219533 seconds.
+Teller 4 was idle 80.0% of the time, with a standard Deviation of 3258.6985132104505 seconds.
+
+
+
+
+
+Test Input 4 Results with no drive thru window:
+Enter the number of tellers.
+3
+Is there a drive-thru? Enter true or false.
+false
+
+RESULTS:
+
+Total Elapsed Time: 			144778 seconds.
+Total Number of Customers Helped: 	1120 customers.
+
+Average Customer Wait Time: 		1202 seconds.
+Standard Deviation of Wait Times:       1244.7325013833292 seconds.
+
+Teller 0 helped 465 customers.
+Teller 1 helped 410 customers.
+Teller 2 helped 245 customers.
+
+Teller 0 was idle 6.0% of the time, with a standard Deviation of 54.230987451824994 seconds.
+Teller 1 was idle 25.0% of the time, with a standard Deviation of 271.02582902741943 seconds.
+Teller 2 was idle 40.0% of the time, with a standard Deviation of 959.5524998664742 seconds.
+
+
+
+
+Summary:
+
+Adding additional tellers decreased the average customer wait time significantly. Removing the drive thru did not provide a substantial improvement. OVerall the more tellers we add, the faster the customers are helped. However it can result in higher idle times for tellers.

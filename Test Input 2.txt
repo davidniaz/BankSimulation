@@ -1,0 +1,5 @@
+1	30	true
+4	227	true
+9	58	true
+16	471	true
+25	176	false
